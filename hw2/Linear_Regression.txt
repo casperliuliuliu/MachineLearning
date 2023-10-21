@@ -1,0 +1,15 @@
+[2023-10-22 01:10:25] 
+
+[2023-10-22 01:11:04] This is a Test
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 19943.618636707717
+R-squared: 0.39854541925426046
+[2023-10-22 01:13:26] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 19943.618636707717
+R-squared: 0.39854541925426046
+[2023-10-22 01:16:10] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 23749.740204705806
+R-squared: 0.283761372605166
+
