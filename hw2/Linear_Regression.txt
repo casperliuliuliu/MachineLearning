@@ -13,3 +13,28 @@ R-squared: 0.39854541925426046
 MSE: 23749.740204705806
 R-squared: 0.283761372605166
 
+[2023-10-22 15:20:37] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 20747.744094412727
+R-squared: 0.37429480812691174
+ 
+[2023-10-22 15:20:38] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 20747.744094412727
+R-squared: 0.37429480812691174
+ 
+[2023-10-22 15:20:38] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 20747.744094412727
+R-squared: 0.37429480812691174
+ 
+[2023-10-22 15:20:39] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 20747.744094412727
+R-squared: 0.37429480812691174
+ 
+[2023-10-22 15:20:39] ====================
+[Testing Purpose]: This is the BASE model. With nothing.
+MSE: 20747.744094412727
+R-squared: 0.37429480812691174
+ 
